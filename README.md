@@ -7,7 +7,7 @@
 | CustomGPT                  | Customized GPT model for specific applications.                                               | [Link](https://github.com/JacquesGariepy/CustomGPT)         | Python, GPT-4                        |
 | DynamicBenchmark           | Proof of concept to perform benchmarks on different methods using BenchmarkDotNet.            | [Link](https://github.com/JacquesGariepy/DynamicBenchmark)  | C#, BenchmarkDotNet                  |
 | Discord-Chatbot-Gpt4Free   | A Python-based Discord bot utilizing GPT-4 for free responses.                                | [Link](https://github.com/JacquesGariepy/Discord-Chatbot-Gpt4Free) | Python, discord.py, GPT-4            |
-| MMA                        | Multiple Moving Averages (8, 14, 20, 50, 100, 200) strategy script on TradingView.            | [Link](https://github.com/JacquesGariepy/MMA)               | TradingView Pine Script              |
+<!--| MMA                        | Multiple Moving Averages (8, 14, 20, 50, 100, 200) strategy script on TradingView.            | [Link](https://github.com/JacquesGariepy/MMA)               | TradingView Pine Script              |
 | Docker-Setup               | Repository for setting up Docker environments and examples.                                   | [Link](https://github.com/JacquesGariepy/Docker-Setup)      | Docker, Containerization             |
 | ML-Training-Scripts        | Scripts and notebooks for training machine learning models.                                   | [Link](https://github.com/JacquesGariepy/ML-Training-Scripts) | Python, TensorFlow, PyTorch          |
 | WebScraping                | Examples and tools for web scraping projects.                                                 | [Link](https://github.com/JacquesGariepy/WebScraping)       | Python, BeautifulSoup, Scrapy        |
@@ -15,7 +15,7 @@
 | DevOps-Pipeline            | Scripts and tools for setting up CI/CD pipelines.                                             | [Link](https://github.com/JacquesGariepy/DevOps-Pipeline)   | Jenkins, GitHub Actions, CI/CD       |
 | IoT-Projects               | Projects related to Internet of Things (IoT) and smart devices.                               | [Link](https://github.com/JacquesGariepy/IoT-Projects)      | Arduino, Raspberry Pi, MQTT          |
 | CyberSecurity              | Scripts and tools related to cybersecurity and penetration testing.                           | [Link](https://github.com/JacquesGariepy/CyberSecurity)     | Python, Metasploit, Wireshark        |
-| FinancialModels            | Financial modeling and analysis tools.                                                        | [Link](https://github.com/JacquesGariepy/FinancialModels)   | Python, Pandas, NumPy, QuantLib      |
+| FinancialModels            | Financial modeling and analysis tools.                                                        | [Link](https://github.com/JacquesGariepy/FinancialModels)   | Python, Pandas, NumPy, QuantLib      |-->
 
 ### Notes
 
