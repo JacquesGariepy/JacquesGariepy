@@ -1,3 +1,18 @@
+# Welcome to Jacques Gariépy's Projects Repository! 🚀
+
+```
+  ____             _               ____                     
+ / ___| _ __  _ __(_)_ __   __ _  |  _ \ __ _ _ __ ___  ___ 
+ \___ \| '_ \| '__| | '_ \ / _` | | |_) / _` | '__/ __|/ _ \
+  ___) | |_) | |  | | | | | (_| | |  __/ (_| | |  \__ \  __/
+ |____/| .__/|_|  |_|_| |_|\__, | |_|   \__,_|_|  |___/\___|
+       |_|                 |___/                            
+```
+
+Welcome to my geeky corner of the internet! Here you'll find a collection of my projects, ranging from AI experiments to automation scripts. Feel free to explore and contribute! 😄
+
+## Projects
+
 | Repository Name            | Description                                                                                   | Link                                                       | Technologies Used                    |
 |----------------------------|-----------------------------------------------------------------------------------------------|------------------------------------------------------------|--------------------------------------|
 | AI-TreeOfThought                    | AI, python, autogen for autonomous agent with ToT                                                                 | [Link](https://github.com/JacquesGariepy/AI-TreeOfThought)                      | AI, Python, prompt engieneering     |
@@ -8,7 +23,7 @@
 | CustomGPT                  | Customized GPT model for specific applications.                                               | [Link](https://github.com/JacquesGariepy/CustomGPT)         | Python, GPT-4                        |
 | DynamicBenchmark           | Proof of concept to perform benchmarks on different methods using BenchmarkDotNet.            | [Link](https://github.com/JacquesGariepy/DynamicBenchmark)  | C#, BenchmarkDotNet                  |
 | Discord-Chatbot-Gpt4Free   | A Python-based Discord bot utilizing GPT-4 for free responses.                                | [Link](https://github.com/JacquesGariepy/Discord-Chatbot-Gpt4Free) | Python, discord.py, GPT-4            |
-<!--| MMA                        | Multiple Moving Averages (8, 14, 20, 50, 100, 200) strategy script on TradingView.            | [Link](https://github.com/JacquesGariepy/MMA)               | TradingView Pine Script              |
+| MMA                        | Multiple Moving Averages (8, 14, 20, 50, 100, 200) strategy script on TradingView.            | [Link](https://github.com/JacquesGariepy/MMA)               | TradingView Pine Script              |
 | Docker-Setup               | Repository for setting up Docker environments and examples.                                   | [Link](https://github.com/JacquesGariepy/Docker-Setup)      | Docker, Containerization             |
 | ML-Training-Scripts        | Scripts and notebooks for training machine learning models.                                   | [Link](https://github.com/JacquesGariepy/ML-Training-Scripts) | Python, TensorFlow, PyTorch          |
 | WebScraping                | Examples and tools for web scraping projects.                                                 | [Link](https://github.com/JacquesGariepy/WebScraping)       | Python, BeautifulSoup, Scrapy        |
@@ -16,7 +31,7 @@
 | DevOps-Pipeline            | Scripts and tools for setting up CI/CD pipelines.                                             | [Link](https://github.com/JacquesGariepy/DevOps-Pipeline)   | Jenkins, GitHub Actions, CI/CD       |
 | IoT-Projects               | Projects related to Internet of Things (IoT) and smart devices.                               | [Link](https://github.com/JacquesGariepy/IoT-Projects)      | Arduino, Raspberry Pi, MQTT          |
 | CyberSecurity              | Scripts and tools related to cybersecurity and penetration testing.                           | [Link](https://github.com/JacquesGariepy/CyberSecurity)     | Python, Metasploit, Wireshark        |
-| FinancialModels            | Financial modeling and analysis tools.                                                        | [Link](https://github.com/JacquesGariepy/FinancialModels)   | Python, Pandas, NumPy, QuantLib      |-->
+| FinancialModels            | Financial modeling and analysis tools.                                                        | [Link](https://github.com/JacquesGariepy/FinancialModels)   | Python, Pandas, NumPy, QuantLib      |
 
 ### Notes
 
@@ -53,7 +68,9 @@
 - [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/)
 - [NumPy Documentation](https://numpy.org/doc/)
 - [QuantLib Documentation](https://www.quantlib.org/documentation.shtml)
-
+- [Geeky Resources](https://geekyresources.com/)
+- [ASCII Art Archive](https://www.asciiart.eu/)
+- [Emojipedia](https://emojipedia.org/)
 
 <!--
 **JacquesGariepy/JacquesGariepy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
