@@ -54,7 +54,7 @@
 - [NumPy Documentation](https://numpy.org/doc/)
 - [QuantLib Documentation](https://www.quantlib.org/documentation.shtml)
 
-<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="jacquesgariepy" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ca.linkedin.com/in/jacquesgariepy?trk=profile-badge">Jacques Gariépy</a></div>
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=social)](https://ca.linkedin.com/in/jacquesgariepy?trk=profile-badge)
               
 <!--
 **JacquesGariepy/JacquesGariepy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
