@@ -8,7 +8,6 @@
 Welcome to my GitHub profile! I'm Jacques Gariépy, a passionate software engineer and researcher focused on creating innovative solutions that combine cutting-edge technology, AI-driven systems, and advanced paradigms to push the boundaries of software development.
 
 ---
----
 
 ## 🚀 About Me
 
