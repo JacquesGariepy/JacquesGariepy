@@ -138,14 +138,6 @@ A project aimed at creating custom GPT models for specific applications.
   - Tools for model development and deployment
   - Detailed documentation for users
 
-### [Discord-Chatbot-Gpt4Free](https://github.com/JacquesGariepy/Discord-Chatbot-Gpt4Free)
-A Python-based Discord bot utilizing GPT-4 for free responses.
-
-- ✨ Main features:
-  - Free GPT-4 integrations for Discord
-  - Real-time chatbot capabilities
-  - Python and discord.py implementation
-
 ### [RecipeGPT](https://github.com/JacquesGariepy/RecipeGPT)
 A Python application using AI to generate personalized recipes based on available ingredients.
 
