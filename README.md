@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I'm Jacques Gariépy, a passionate software engine
 
 ---
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)]
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
 ## 🔒 Private Projects & More
