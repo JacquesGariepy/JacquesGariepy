@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Jacques Gariépy!
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JacquesGariepy&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JacquesGariepy&theme=dark)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jacquesgariepy)
 [![GitHub Followers](https://img.shields.io/github/followers/JacquesGariepy?style=social)](https://github.com/JacquesGariepy?tab=followers)
