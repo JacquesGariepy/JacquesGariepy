@@ -33,6 +33,12 @@ Welcome to my GitHub profile! I'm Jacques Gariépy, a passionate software engine
 
 ---
 
+## 🔒 Private Projects & More
+
+In addition to my public repositories, I am actively working on numerous private projects, including advanced **LLM models**, cutting-edge **AI systems**, and many more innovative solutions designed to push the boundaries of technology and creativity. Stay tuned for future updates as these projects evolve!
+
+---
+
 ## 📂 Featured Projects (no order)
 
 ### [HyperX](https://github.com/JacquesGariepy/HyperX)
