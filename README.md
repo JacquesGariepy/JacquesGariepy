@@ -230,5 +230,3 @@ This project is licensed under the MIT License ;)
 ---
 
 Thank you for visiting my profile! Feel free to explore my projects and reach out if you'd like to collaborate or just chat.
-
- 
