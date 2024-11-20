@@ -1,72 +1,237 @@
-| Repository Name            | Description                                                                                   | Link                                                       | Technologies Used                    |
-|----------------------------|-----------------------------------------------------------------------------------------------|------------------------------------------------------------|--------------------------------------|
-| AI-TreeOfThought                    | AI, python, autogen for autonomous agent with ToT                                                                 | [Link](https://github.com/JacquesGariepy/AI-TreeOfThought)                      | AI, Python, prompt engieneering     |
-| Installation-Script        | A PowerShell script for automating software installations and configurations.                 | [Link](https://github.com/JacquesGariepy/Installation-Script) | PowerShell                           |
-| Git-Sheet-Cheat            | A cheat sheet for common Git commands and their uses.                                         | [Link](https://github.com/JacquesGariepy/Git-Sheet-Cheat)   | Git                                  |
-| Multi-GPT                  | An experimental project aimed at making GPT-4 fully autonomous.                               | [Link](https://github.com/JacquesGariepy/Multi-GPT)         | Python, GPT-4, AI                    |
-| RecipeGPT                  | A project for generating recipes using GPT-based models.                                      | [Link](https://github.com/JacquesGariepy/RecipeGPT)         | Python, GPT-4                        |
-| CustomGPT                  | Customized GPT model for specific applications.                                               | [Link](https://github.com/JacquesGariepy/CustomGPT)         | Python, GPT-4                        |
-| DynamicBenchmark           | Proof of concept to perform benchmarks on different methods using BenchmarkDotNet.            | [Link](https://github.com/JacquesGariepy/DynamicBenchmark)  | C#, BenchmarkDotNet                  |
-| Discord-Chatbot-Gpt4Free   | A Python-based Discord bot utilizing GPT-4 for free responses.                                | [Link](https://github.com/JacquesGariepy/Discord-Chatbot-Gpt4Free) | Python, discord.py, GPT-4            |
-<!--| MMA                        | Multiple Moving Averages (8, 14, 20, 50, 100, 200) strategy script on TradingView.            | [Link](https://github.com/JacquesGariepy/MMA)               | TradingView Pine Script              |
-| Docker-Setup               | Repository for setting up Docker environments and examples.                                   | [Link](https://github.com/JacquesGariepy/Docker-Setup)      | Docker, Containerization             |
-| ML-Training-Scripts        | Scripts and notebooks for training machine learning models.                                   | [Link](https://github.com/JacquesGariepy/ML-Training-Scripts) | Python, TensorFlow, PyTorch          |
-| WebScraping                | Examples and tools for web scraping projects.                                                 | [Link](https://github.com/JacquesGariepy/WebScraping)       | Python, BeautifulSoup, Scrapy        |
-| DataVisualization          | Examples of data visualization techniques and tools.                                          | [Link](https://github.com/JacquesGariepy/DataVisualization) | Python, Matplotlib, Seaborn, D3.js   |
-| DevOps-Pipeline            | Scripts and tools for setting up CI/CD pipelines.                                             | [Link](https://github.com/JacquesGariepy/DevOps-Pipeline)   | Jenkins, GitHub Actions, CI/CD       |
-| IoT-Projects               | Projects related to Internet of Things (IoT) and smart devices.                               | [Link](https://github.com/JacquesGariepy/IoT-Projects)      | Arduino, Raspberry Pi, MQTT          |
-| CyberSecurity              | Scripts and tools related to cybersecurity and penetration testing.                           | [Link](https://github.com/JacquesGariepy/CyberSecurity)     | Python, Metasploit, Wireshark        |
-| FinancialModels            | Financial modeling and analysis tools.                                                        | [Link](https://github.com/JacquesGariepy/FinancialModels)   | Python, Pandas, NumPy, QuantLib      |-->
+# 👋 Hello, I'm Jacques Gariépy!
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JacquesGariepy&theme=radical)
 
-### Notes
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jacquesgariepy)
+[![GitHub Followers](https://img.shields.io/github/followers/JacquesGariepy?style=social)](https://github.com/JacquesGariepy?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/JacquesGariepy?style=social)](https://github.com/JacquesGariepy?tab=repositories)
 
-- **PowerShell**: Used for task automation and configuration management.
-- **Python**: Utilized extensively for AI, machine learning, web scraping, and automation projects.
-- **Git**: Essential for version control and source code management.
-- **GPT Models**: Focus on developing autonomous systems and custom AI solutions.
-- **BenchmarkDotNet**: Library for benchmarking in .NET.
-- **Docker**: Containerization platform for developing, shipping, and running applications.
-- **TensorFlow and PyTorch**: Libraries for machine learning and deep learning projects.
-- **BeautifulSoup and Scrapy**: Libraries for web scraping and data extraction from websites.
-- **Jenkins and GitHub Actions**: Tools for automating software development processes using CI/CD.
-- **Arduino and Raspberry Pi**: Hardware platforms for IoT projects.
-- **Metasploit and Wireshark**: Tools for cybersecurity and network analysis.
-- **Pandas, NumPy, and QuantLib**: Libraries for financial modeling and data analysis.
+Welcome to my GitHub profile! I'm Jacques Gariépy, a passionate software engineer and researcher focused on creating innovative solutions that combine cutting-edge technology, AI-driven systems, and advanced paradigms to push the boundaries of software development.
 
-### Additional Resources
+---
+---
 
-- [Jacques Gariépy's GitHub Profile](https://github.com/JacquesGariepy)
-- [PowerShell Documentation](https://docs.microsoft.com/en-us/powershell/)
-- [Python Official Site](https://www.python.org/)
-- [BenchmarkDotNet Documentation](https://benchmarkdotnet.org/articles/overview.html)
-- [Docker Documentation](https://docs.docker.com/)
-- [TensorFlow Documentation](https://www.tensorflow.org/)
-- [PyTorch Documentation](https://pytorch.org/)
-- [BeautifulSoup Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-- [Scrapy Documentation](https://docs.scrapy.org/en/latest/)
-- [GitHub Actions Documentation](https://docs.github.com/en/actions)
-- [Jenkins Documentation](https://www.jenkins.io/doc/)
-- [Arduino Documentation](https://www.arduino.cc/reference/en/)
-- [Raspberry Pi Documentation](https://www.raspberrypi.org/documentation/)
-- [Metasploit Documentation](https://docs.rapid7.com/metasploit/)
-- [Wireshark Documentation](https://www.wireshark.org/docs/)
-- [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/)
-- [NumPy Documentation](https://numpy.org/doc/)
-- [QuantLib Documentation](https://www.quantlib.org/documentation.shtml)
+## 🚀 About Me
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=social)](https://ca.linkedin.com/in/jacquesgariepy?trk=profile-badge)
-              
-<!--
-**JacquesGariepy/JacquesGariepy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧠 A researcher and developer focused on transforming modern programming paradigms to align with AI-driven methodologies and **deep learning** innovations.
+- 🔭 Passionate about integrating **C#**, **Python**, **Angular**, **LLMs**, and **AI agents** into scalable and innovative solutions.
+- 🌱 Exploring new techniques in **neural networks**, **modular AI systems**, **prompt engineering**, and **agentic intelligence** to enhance user experiences.
+- 🎨 Dedicated to creating tools that simplify complex workflows for developers while leveraging technologies like **RAG**, **LLMs**, and advanced **model optimization**.
+- 💬 Ask me about **deep learning**, **neural networks**, **AI models**, or anything related to cutting-edge software engineering and research.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+
+![Csharp](https://img.shields.io/badge/Csharp-3776AB?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/AI-3776AB?style=for-the-badge&logo=openai&logoColor=white)
+![Agentic Agents](https://img.shields.io/badge/Agentic%20Agents-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+---
+
+## 📂 Featured Projects
+
+## 📂 Featured Projects
+
+### [HyperX](https://github.com/JacquesGariepy/HyperX)
+A cutting-edge language model that blends hyperbolic geometry with multi-head attention to capture complex, hierarchical structures in language.
+
+- ✨ Main features:
+  - Advanced modeling of linguistic structures
+  - Integration of geometric concepts into language models
+  - Potential for improved performance on complex tasks
+
+### [DynamicBenchmark](https://github.com/JacquesGariepy/DynamicBenchmark)
+Proof of concept to perform benchmarks on different methods using BenchmarkDotNet.
+
+- ✨ Main features:
+  - Benchmarking methods to evaluate performance
+  - Use of BenchmarkDotNet for precise measurements
+  - Comparative analysis of different implementations
+    
+### [AI-TreeOfThought](https://github.com/JacquesGariepy/AI-TreeOfThought)
+A project leveraging AutoGen for creating autonomous agents with Tree of Thought (ToT) reasoning capabilities.
+
+- ✨ Main features:
+  - Advanced reasoning using the Tree of Thought framework
+  - Integration of AI agents with AutoGen
+  - Focused on modular AI workflows and prompt engineering
+
+### [SORA](https://github.com/JacquesGariepy/SORA)
+A dynamic system designed for optimizing neural network operations and AI workflows.
+
+- ✨ Main features:
+  - Advanced inference mechanisms for AI models
+  - Optimization for real-time applications
+  - Modular and scalable architecture
+
+### [agenticai_openweathermap](https://github.com/JacquesGariepy/agenticai_openweathermap)
+A project integrating AI with real-time weather data from OpenWeatherMap.
+
+- ✨ Main features:
+  - Agent-based weather forecasting
+  - AutoGen-enhanced integration
+  - Real-time API data processing
+
+### [service-failover](https://github.com/JacquesGariepy/service-failover)
+A robust system for handling service failures to ensure application continuity.
+
+- ✨ Main features:
+  - Configurable retry policies
+  - Circuit breaker for service health monitoring
+  - Rate limiting to prevent overload
+    
+
+### [reverse-engineering](https://github.com/JacquesGariepy/reverse-engineering)
+An AI-powered command-line tool for analyzing, refactoring, and auditing source code.
+
+- ✨ Main features:
+  - In-depth code analysis
+  - Intelligent refactoring suggestions
+  - Automatic documentation generation
+
+### [Multi-GPT](https://github.com/JacquesGariepy/Multi-GPT)
+An experimental project aimed at making GPT-4 fully autonomous.
+
+- ✨ Main features:
+  - Implementation of autonomous GPT-4 workflows
+  - Python-based experiments
+  - Insights into next-gen GPT capabilities
+  - 
+### [swarm_simulation_tool](https://github.com/JacquesGariepy/swarm_simulation_tool)
+A tool for simulating and visualizing swarm intelligence behaviors in various scenarios.
+
+- ✨ Main features:
+  - Simulation of multi-agent behaviors
+  - Visualization of swarm dynamics
+  - Configurable environments for testing
+
+### [coolabchat](https://github.com/JacquesGariepy/coolabchat)
+A collaborative chat application built with React and TypeScript.
+
+- ✨ Main features:
+  - Real-time communication for multiple users
+  - Intuitive and modern UI
+  - Lightweight and scalable architecture
+
+### [AspNetMvc-ObserverPattern-Demo](https://github.com/JacquesGariepy/AspNetMvc-ObserverPattern-Demo)
+A demonstration of the Observer design pattern implemented in ASP.NET MVC.
+
+- ✨ Main features:
+  - Practical implementation of the Observer pattern
+  - ASP.NET MVC-based architecture
+  - Simple and easy-to-follow example
+
+### [TagEase](https://github.com/JacquesGariepy/TagEase)
+A project aimed at simplifying metadata tagging and management.
+
+- ✨ Main features:
+  - Easy-to-use tagging interface
+  - Integration with external systems for metadata organization
+  - Lightweight and efficient tagging engine
+### [CustomGPT](https://github.com/JacquesGariepy/CustomGPT)
+A project aimed at creating custom GPT models for specific applications.
+
+- ✨ Main features:
+  - GPT models tailored to particular domains
+  - Tools for model development and deployment
+  - Detailed documentation for users
+
+### [Discord-Chatbot-Gpt4Free](https://github.com/JacquesGariepy/Discord-Chatbot-Gpt4Free)
+A Python-based Discord bot utilizing GPT-4 for free responses.
+
+- ✨ Main features:
+  - Free GPT-4 integrations for Discord
+  - Real-time chatbot capabilities
+  - Python and discord.py implementation
+
+### [RecipeGPT](https://github.com/JacquesGariepy/RecipeGPT)
+A Python application using AI to generate personalized recipes based on available ingredients.
+
+- ✨ Main features:
+  - Personalized recipe generation
+  - Integration with GPT-4 models
+  - User-friendly command-line interface
+
+### [Installation-Script](https://github.com/JacquesGariepy/Installation-Script)
+A PowerShell script for automating software installations and configurations.
+
+- ✨ Main features:
+  - Simplifies the software installation process
+  - Automation of configurations
+  - PowerShell-based for cross-environment compatibility
+
+### [Git-Sheet-Cheat](https://github.com/JacquesGariepy/Git-Sheet-Cheat)
+A cheat sheet for common Git commands and their uses.
+
+- ✨ Main features:
+  - Comprehensive list of Git commands
+  - Usage examples and practical tips
+  - Beginner-friendly reference
+
+### [PowerLLM](https://github.com/JacquesGariepy/PowerLLM)
+A project exploring the use of powerful language models for various applications.
+
+- ✨ Main features:
+  - Integration of advanced language models
+  - Applications in natural language processing
+  - Documentation and usage examples
+
+### [student-performance](https://github.com/JacquesGariepy/student-performance)
+A project aimed at predicting student performance and providing educational interventions based on influential factors.
+
+- ✨ Main features:
+  - Prediction model based on RandomForestRegressor
+  - Analysis of feature importance affecting performance
+  - Personalized educational recommendations
+
+### [Swarm2](https://github.com/JacquesGariepy/Swarm2)
+A collaborative project exploring lightweight multi-agent orchestration, managed by the OpenAI solutions team.
+
+- ✨ Main features:
+  - Educational framework for multi-agent orchestration
+  - Ergonomic and lightweight agent management
+  - Examples and use cases
+
+### [Prompts](https://github.com/JacquesGariepy/Prompts)
+A repository dedicated to prompt engineering, containing examples and guides to optimize interactions with language models.
+
+- ✨ Main features:
+  - Examples of prompts for various applications
+  - Guides on creating and optimizing prompts
+  - Resources for developers working with language models
+
+### [deeplearning_information](https://github.com/JacquesGariepy/deeplearning_information)
+A repository containing information and resources on deep learning.
+
+- ✨ Main features:
+  - Articles and tutorials on deep learning
+  - Resources for beginners and experts
+  - Links to online courses and recommended books
+
+
+---
+
+## 🌐 Connect with Me
+
+You can find me on these platforms:
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin)](https://linkedin.com/in/jacquesgariepy)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=social&logo=twitter)](https://twitter.com/JacquesGariepy)
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License ;)
+
+---
+
+Thank you for visiting my profile! Feel free to explore my projects and reach out if you'd like to collaborate or just chat.
+
+ 
