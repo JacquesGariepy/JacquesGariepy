@@ -34,9 +34,7 @@ Welcome to my GitHub profile! I'm Jacques Gariépy, a passionate software engine
 
 ---
 
-## 📂 Featured Projects
-
-## 📂 Featured Projects
+## 📂 Featured Projects (no order)
 
 ### [HyperX](https://github.com/JacquesGariepy/HyperX)
 A cutting-edge language model that blends hyperbolic geometry with multi-head attention to capture complex, hierarchical structures in language.
@@ -86,7 +84,6 @@ A robust system for handling service failures to ensure application continuity.
   - Circuit breaker for service health monitoring
   - Rate limiting to prevent overload
     
-
 ### [reverse-engineering](https://github.com/JacquesGariepy/reverse-engineering)
 An AI-powered command-line tool for analyzing, refactoring, and auditing source code.
 
