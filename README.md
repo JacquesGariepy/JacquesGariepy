@@ -45,6 +45,15 @@ In addition to my public repositories, I am actively working on numerous private
 
 ## 📂 Featured Projects (no order)
 
+### [library-analyzer](https://github.com/JacquesGariepy/library-analyzer)
+This script is designed to analyze Python libraries, extracting detailed information about their elements, such as classes, methods, functions, properties, and more. It can save the analysis results to a JSON file for further inspection.
+
+- ✨ Main features:
+  - Detailed analysis of Python library elements
+  - JSON export of analysis results
+  - High Python code composition (98.1%) with minimal Dockerfile usage (1.9%)
+  - Support for semantic search using BERT and whoosh
+
 ### [HyperX](https://github.com/JacquesGariepy/HyperX)
 A cutting-edge language model that blends hyperbolic geometry with multi-head attention to capture complex, hierarchical structures in language.
 
