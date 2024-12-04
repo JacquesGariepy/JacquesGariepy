@@ -45,6 +45,23 @@ In addition to my public repositories, I am actively working on numerous private
 
 ## 📂 Featured Projects (no order)
 
+### [Out-of-code Insights](https://github.com/JacquesGariepy/out-of-code-insights)
+Out-of-code Insights is a Visual Studio Code extension that allows you to add annotations, comments, and notes without modifying your source files. It is ideal for avoiding clutter in your code with temporary comments or making the code unnecessarily heavy.
+#### VSCode Marketplace
+https://marketplace.visualstudio.com/items?itemName=JacquesGariepy.out-of-code-insights
+
+`Try Out-of-code Insights today and streamline your workflow without overloading your code!`
+
+- ✨ Main features:
+  - Non-intrusive annotations: Add comments without altering the source code, keeping your files clean and organized.
+  - Optimized for code reviews: Facilitate team communication by adding comments directly on the relevant lines.
+  - Avoid code clutter: Maintain clarity and readability of your code by avoiding unnecessary comments.
+  - Annotations on all file types: Add annotations to any file in your project, including source code, Markdown, JSON, XML, text, etc.
+  - Intelligent change tracking: Annotations automatically follow file changes as long as edits are made within Visual Studio Code.
+  - Personalization: Adapt the extension to your needs with various configuration options.
+  - Threaded discussions: Reply to annotations to create threads and enhance collaboration.
+  - Advanced annotation management: Activities bar, Move, filter, sort, and navigate annotations with ease.
+
 ### [library-analyzer](https://github.com/JacquesGariepy/library-analyzer)
 This script is designed to analyze Python libraries, extracting detailed information about their elements, such as classes, methods, functions, properties, and more. It can save the analysis results to a JSON file for further inspection.
 
