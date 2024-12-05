@@ -244,9 +244,9 @@ A repository containing information and resources on deep learning.
 ## 🌐 Connect with Me
 
 You can find me on these platforms:
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin)](https://linkedin.com/in/jacquesgariepy)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=social&logo=twitter)](https://twitter.com/JacquesGariepy)
+[![Github Badge](https://img.shields.io/badge/-0077B5?style=social&logo=github)](https://github.com/JacquesGariepy)
+[![LinkedIn Badge](https://img.shields.io/badge/-0077B5?style=social&logo=linkedin)](https://linkedin.com/in/jacquesgariepy)
+[![X Badge](https://img.shields.io/badge/-1DA1F2?style=social&logo=x)](https://X.com/jacquesgariepy)
 
 ---
 
