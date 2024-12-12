@@ -45,6 +45,17 @@ In addition to my public repositories, I am actively working on numerous private
 
 ## 📂 Featured Projects (no order)
 
+### [CommanderAI](https://github.com/JacquesGariepy/CommanderAI)
+Windows automation system powered by a Large Language Model (LLM) to understand and execute instructions. The idea is simple: you give a natural language command (e.g., “Open Notepad and type ‘Hello, world!’”), and the system attempts to translate it into actual actions on your Windows machine.
+
+- ✨ Main features:
+
+  - LLM-Driven Action Generation: The system interprets requests and dynamically generates Python code to interact with applications.
+  - Automated Windows Interaction: Opening and controlling applications using tools like pywinauto and pyautogui.
+  - Screen Analysis & OCR: Capture and analyze the screen with Tesseract OCR to verify UI states and adapt accordingly.
+  - Speech Recognition & Text-to-Speech: Control the computer with voice commands and receive spoken feedback.
+
+
 ### [Out-of-code Insights](https://github.com/JacquesGariepy/out-of-code-insights)
 Out-of-code Insights is a Visual Studio Code extension that allows you to add annotations, comments, and notes without modifying your source files. It is ideal for avoiding clutter in your code with temporary comments or making the code unnecessarily heavy.
 #### VSCode Marketplace
