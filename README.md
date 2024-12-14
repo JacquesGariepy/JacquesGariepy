@@ -201,7 +201,8 @@ A PowerShell script for automating software installations and configurations.
   - Automation of configurations
   - PowerShell-based for cross-environment compatibility
 
-### [Git-Sheet-Cheat](https://github.com/JacquesGariepy/Git-Sheet-Cheat)
+### [Git-S
+Cheet-Sheat](https://github.com/JacquesGariepy/git-cheet-sheat)
 A cheat sheet for common Git commands and their uses.
 
 - ✨ Main features:
