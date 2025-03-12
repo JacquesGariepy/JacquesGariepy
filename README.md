@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm Jacques Gariépy, a passionate software engine
 
 - 🤓 I love discovering the latest trends! ✨ Learning new programming languages, exploring innovative frameworks, it really motivates me, creating. 💪 As a software engineer, I find it essential to stay up to date and always look for improvement.
 - 🧠 A researcher and developer focused on transforming modern programming paradigms to align with AI-driven methodologies and **deep learning** innovations.
-- 🔭 Passionate about integrating **C#**, **Python**, **Angular**, **LLMs**, and **AI agents** into scalable and innovative solutions.
+- 🔭 Passionate about integrating **C#/.net**, **Python**, **Angular**, **React**, **LLMs**, and **AI agents** into scalable and innovative solutions.
 - 🌱 Exploring new techniques in **neural networks**, **modular AI systems**, **prompt engineering**, and **agentic intelligence** to enhance user experiences.
 - 🎨 Dedicated to creating tools that simplify complex workflows for developers while leveraging technologies like **RAG**, **LLMs**, and advanced **model optimization**.
 - 💬 Ask me about **dev**, **web**, **agentic ai**, **deep learning**, **neural networks**, **AI models**, or anything related to cutting-edge software engineering and research.
