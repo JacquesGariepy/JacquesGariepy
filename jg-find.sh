@@ -41,13 +41,19 @@ Generated: 2025-09-22
   esac
 done
 
-color_on() {{ [[ $NO_COLOR -eq 1 ]] && return 1 || return 0; }}
+color_on() {
+  [[ $NO_COLOR -eq 1 ]] && return 1 || return 0
+}
 
-emit() {{
-  if color_on; then printf "%b" "$1"
-  else printf "%s" "$(echo -e "$1" | sed $'s/\x1b\[[0-9;]*m//g')"
+emit() {
+  if color_on; then
+    printf "%b" "$1"
+  else
+    printf "%s" "$(echo -e "$1" | sed $'s/\\x1b\
+
+\[[0-9;]*m//g')"
   fi
-}}
+}
 
 if [[ $PRINT_JSON -eq 1 ]]; then
   cat <<'JSON'
